@@ -1,3 +1,4 @@
+This is the codes of the AMP-Generate in our manuscript "A Novel Framework for Generating Pathogen-targeted Antimicrobial Peptides with Programmable Physicochemical Properties".
 
 ## Requirement
 
